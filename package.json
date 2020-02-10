@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:somewhatabstract/hello-react-world-ssr.git",
   "author": "Jeff Yates <jeff@somewhatabstract.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
